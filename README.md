@@ -1,7 +1,7 @@
 # 3819
 Информация для студентов ИИТММ 19 года.
 
-Первичный опрос\список группы: https://docs.google.com/forms/d/e/1FAIpQLScyQqYj53d3LP5X4o4t2pTIU9P2cCQiwrp-WIVFdo03UFsZGw/viewform?vc=0&c=0&w=1&usp=mail_form_link
+Результаты сдачи лаб и задания: https://docs.google.com/spreadsheets/d/1eaNRxyj7dUHrt--dbkwE-Vjzc6F0Qt8psfvtcYy7u5o/edit#gid=1649146222
 
 Лебедев Илья Генадьевич: lebedev.ilya.g@gmail.com
 
