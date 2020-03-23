@@ -1,7 +1,8 @@
 # 3819
 Информация для студентов ИИТММ 19 года.
 
-Для сдачи лабораторных впишите её адрес в таблицу: https://docs.google.com/spreadsheets/d/1pIY82tXKmXcUuyO-iWX14Y9-1m6ZofLjSI3PuwlJMqg/edit#gid=0
+Для сдачи лабораторных впишите её адрес в таблицу: https://docs.google.com/spreadsheets/d/1pIY82tXKmXcUuyO-iWX14Y9-1m6ZofLjSI3PuwlJMqg/edit?usp=sharing
+
 Если несколько лабораторных находятся в одном репозитории то впишите его адрес несклько раз.
 
 Результаты сдачи лаб :
