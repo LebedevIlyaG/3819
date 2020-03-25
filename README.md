@@ -1,3 +1,5 @@
+https://gitter.im/LebedevOrg/3819?utm_source=share-link&utm_medium=link&utm_campaign=share-link
+
 # 3819
 Информация для студентов ИИТММ 19 года.
 
