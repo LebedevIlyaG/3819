@@ -23,6 +23,15 @@
 Учебник:
 Павловская Т.А. с/с++. программирование на языке высокого уровня
 
+Таблица с распределением задач по добровольцам :)
+
+https://docs.google.com/spreadsheets/d/15TuZqEKP-pcl1kDUlTo0SaO8gLyT2B9f0rKmk9naYZM/edit?usp=sharing
+
+Документ с написанием кода:
+
+https://docs.google.com/document/d/1I1bmn0En1_eUkizLn2Fr5ynowuVuEOHrE-cOeJdckt0/edit
+
+
 # Ближайшее занятие: 17:00 29.04.2020
 
 Подключиться к конференции Zoom
