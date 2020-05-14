@@ -32,8 +32,9 @@ https://docs.google.com/spreadsheets/d/15TuZqEKP-pcl1kDUlTo0SaO8gLyT2B9f0rKmk9na
 https://docs.google.com/document/d/1I1bmn0En1_eUkizLn2Fr5ynowuVuEOHrE-cOeJdckt0/edit
 
 
-# Ближайшее занятие: 17:00 29.04.2020
+# Ближайшее занятие: 17:00 13.05.2020
 
 Подключиться к конференции Zoom
-https://us04web.zoom.us/j/74400234023
-Идентификатор конференции: 744 0023 4023
+https://us04web.zoom.us/j/71856715862?pwd=TW05cDZMWktKOVRYY0VQa2tEek5FQT09
+Идентификатор конференции: 718 5671 5862
+Пароль: 3DQ8yZ
