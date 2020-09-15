@@ -27,6 +27,8 @@
 
 Информация о конкурес проектов: [http://www.itmm.unn.ru/novosti/koncurs-prog-pr-2019]
 
+Совместная разработка: [https://docs.google.com/document/d/1Gmz7UmEJylV0_anjgYmSJBliMIyQ5U6625flVlVT3E4/edit?usp=sharing]
+
 # Список лабораторных работ
 
 |Название|Отчет|
