@@ -2,7 +2,7 @@
 
   - [Git][git] как пример системы контроля версий (VCS). [Git for Windows][https://git-scm.com/downloads] [tortoisegit][https://tortoisegit.org/]
   - [GitHub][https://github.com] как пример хостинга для проектов.
-  - [Google Test][https://https://github.com.com/google/googletest] как пример фреймфорка для модульного тестирования
+  - [Google Test][github.com/google/googletest] как пример фреймфорка для модульного тестирования
     (xUnit).
   - [CMake](http://www.cmake.org) как кроссплатформенная и IDE-независимая [Дубров система построения проектов cmake]
     система сборки для проектов на языке С/С++.
