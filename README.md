@@ -36,6 +36,8 @@ https://us04web.zoom.us/j/76888957331?pwd=anpqTHExdksvQy92WTdCNkVRZlFPQT09
 
 Таблица с результатами для групп 381903-3, 381908-1, 381908-4: https://docs.google.com/spreadsheets/d/1FuVLe11pxRXM6br7shI91CBheth8a9ZmGAtlOEsE0hk/edit?usp=sharing
 
+Таблица со ссылками на отчеты: https://docs.google.com/spreadsheets/d/1CI6BbNsSh1Pxbip6-v6qcmreMddxDi1xy9srDXh-cjs/edit?usp=sharing
+
 # Полезные ссылки:
 
 Шаблон первой лабораторной работы: [https://github.com/UNN-ITMM-Software/mp2-lab1-set]
