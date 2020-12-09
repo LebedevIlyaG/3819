@@ -38,6 +38,14 @@ https://us04web.zoom.us/j/76888957331?pwd=anpqTHExdksvQy92WTdCNkVRZlFPQT09
 
 Таблица со ссылками на отчеты: https://docs.google.com/spreadsheets/d/1CI6BbNsSh1Pxbip6-v6qcmreMddxDi1xy9srDXh-cjs/edit?usp=sharing
 
+# Консультация по зачету пройдет 28.12.2020 в 18:00
+
+Время: Понедельник 28.12.2020 18:00
+Подключиться к конференции Zoom
+https://us04web.zoom.us/j/71982285957?pwd=UExEd3V3TDNXcWpoQy82cUVrVFlWZz09
+Идентификатор конференции: 719 8228 5957
+Код доступа: P6UF2F
+
 # Полезные ссылки:
 
 Шаблон первой лабораторной работы: [https://github.com/UNN-ITMM-Software/mp2-lab1-set]
