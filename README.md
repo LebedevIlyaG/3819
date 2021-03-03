@@ -18,20 +18,6 @@
 
 Ссылка для письма кода во время практики: https://repl.it/join/oltpbnid-lebedevilyag
 
-Тема: Программирование среда 12:20 381903-3
-Время: По средам в 12:20
-Подключиться к конференции Zoom
-https://us04web.zoom.us/j/78060737682?pwd=QVlZT0RlOHAxSzJPZXpKcnZnUnp2dz09
-Идентификатор конференции: 780 6073 7682
-Код доступа: HW33QG
-
-Тема: Программирование 381906-2 четверг 10:40
-Время: каждый четверг 16:00
-Подключиться к конференции Zoom
-https://us04web.zoom.us/j/76888957331?pwd=anpqTHExdksvQy92WTdCNkVRZlFPQT09
-Идентификатор конференции: 768 8895 7331
-Код доступа: 5hgTnm
-
 
 # Результаты
 
@@ -39,6 +25,7 @@ https://us04web.zoom.us/j/76888957331?pwd=anpqTHExdksvQy92WTdCNkVRZlFPQT09
 
 Таблица со ссылками на отчеты: https://docs.google.com/spreadsheets/d/1CI6BbNsSh1Pxbip6-v6qcmreMddxDi1xy9srDXh-cjs/edit?usp=sharing
 
+Таблица для участвующих в конкурсе проектов: https://docs.google.com/spreadsheets/d/1tOpJ1ix5uPfoEIDgdg79H3J9n_nNnvRl4D5-S4HxVLI/edit?usp=sharing
 
 # Полезные ссылки:
 
@@ -138,3 +125,7 @@ https://us04web.zoom.us/j/76888957331?pwd=anpqTHExdksvQy92WTdCNkVRZlFPQT09
 Второй_курс_программирование_3011 - Одиннадцатая лабораторная - полиномы.
 
 Второй_курс_программирование_0712 - Десятая лабораторная - арифметика.
+
+Второй_курс_программирование_2502 - Двенадцатая лабораторная - тексты, начало.
+
+Второй_курс_программирование_0303 - Двенадцатая лабораторная - тексты, сборка мусора.
